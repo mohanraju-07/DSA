@@ -3,6 +3,8 @@
     "files.associations": {
         "array": "c",
         "string": "c",
-        "format": "c"
+        "format": "c",
+        "random": "c",
+        "limits": "c"
     }
 }
