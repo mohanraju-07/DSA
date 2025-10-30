@@ -5,6 +5,8 @@
         "string": "c",
         "format": "c",
         "random": "c",
-        "limits": "c"
+        "limits": "c",
+        "string_view": "c",
+        "span": "c"
     }
 }
