@@ -67,7 +67,7 @@ The Data Structures and Algorithms (DSA) project is an extensive collection of C
 4.  Run the compiled executable file to test the data structures and algorithms.
 
 ## Contributions
-==============
+=================
 
 Contributions to the project are welcome. Please follow the standard guidelines for submitting pull requests.
 
