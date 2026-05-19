@@ -6,7 +6,7 @@
 The Data Structures and Algorithms (DSA) project is an extensive collection of C implementations for various data structures and algorithms. The project is divided into nine folders, each containing specific data structures and algorithms.
 
 ## Folder Structure & Explanation
-=============================
+=================================
 
 ### .\divide and conquer
 
