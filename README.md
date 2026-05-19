@@ -1,4 +1,4 @@
-# Project: Data Structures and Algorithms (DSA)
+# Project: Data Structures and Algorithms (DSA) 
 
 ## Project Overview
 ===============
@@ -52,7 +52,7 @@ The Data Structures and Algorithms (DSA) project is an extensive collection of C
 *   The project provides an extensive collection of example use cases and explanations for each data structure and algorithm.
 
 ## Technologies Used
-================
+=====================
 
 *   Programming language: C
 *   Development Environment: GCC compiler
