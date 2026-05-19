@@ -1,4 +1,4 @@
-# Project: Data Structures and Algorithms (DSA)
+# Project:- Data Structures and Algorithms (DSA)
 
 ## Project Overview
 ===============
