@@ -72,7 +72,7 @@ The Data Structures and Algorithms (DSA) project is an extensive collection of C
 Contributions to the project are welcome. Please follow the standard guidelines for submitting pull requests.
 
 ## Acknowledgments
-==============
+=====================
 
 This project is based on the following resources:
 
